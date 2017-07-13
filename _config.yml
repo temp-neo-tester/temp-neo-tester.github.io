@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title:            Bla
+menu:
+  - test: 'test'
